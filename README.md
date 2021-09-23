@@ -27,5 +27,4 @@ code_015 | [绘制几何形状](cpp/code_015.cpp)   | ✔️
 code_016 | [图像ROI与ROI操作](cpp/code_016.cpp)   | ✔️
 code_017 | [图像直方图](cpp/code_017.cpp)   | ✔️
 code_018 | [图像直方图均衡化](cpp/code_018.cpp)   | ✏️
-code_020 | [图像直方图反向投影](cpp/code_020/opencv_020.py)   | ✔️
-code_021 | [图像卷积操作](cpp/code_021/opencv_021.py)   | ✔️
+code_021 | [图像卷积操作](cpp/code_021.cpp)   | ✔️
