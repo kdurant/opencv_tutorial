@@ -1,3 +1,7 @@
+/*
+ * https://zhuanlan.zhihu.com/p/44918476
+ * 直方图均衡化(Histogram Equalization)是一种增强图像对比度(Image Contrast)的方法，其主要思想是将一副图像的直方图分布变成近似均匀分布，从而增强图像的对比度。
+ */
 #include <iostream>
 #include "opencv2/core/matx.hpp"
 #include "opencv2/highgui.hpp"
@@ -112,7 +116,7 @@ void showHist(const cv::Mat& img, const string window_name)
 
 int main()
 {
-    string  filename = "../picture/lena.png";
+    string  filename = "../picture/car.jpg";
     cv::Mat img      = cv::imread(filename);
     cout << filename << " has " << img.channels() << " channels\n";
     if(img.empty())
