@@ -1,5 +1,5 @@
 CC = g++
-TARGET = main.exe
+TARGET = test.exe
 INC_DIRS += -IC:\Lib\opencv\install\include
 INC_DIRS += -IC:\Lib\opencv\install\include\opencv2
 LIB_PATH += -LC:\Lib\opencv\install\x64\mingw\lib
@@ -7,7 +7,7 @@ LIBS += -lopencv_calib3d453 -lopencv_core453 -lopencv_dnn453 -lopencv_features2d
 SYMBOLS = 
 
 
-SRC_FILES = main.cpp
+SRC_FILES = test.cpp
 
 
 all: default
