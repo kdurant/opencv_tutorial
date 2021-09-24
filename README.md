@@ -1,6 +1,7 @@
 [LeBron-Jian/ComputerVisionPractice](https://github.com/LeBron-Jian/ComputerVisionPractice)
 [JimmyHHua/opencv_tutorials](https://github.com/JimmyHHua/opencv_tutorials/blob/master/README_CN.md)
 [x-jeff/OpenCV_Code_Demo](https://github.com/x-jeff/OpenCV_Code_Demo)
+[MachineLP/OpenCV](https://github.com/MachineLP/OpenCV-)
 
 ***备注:***
 
@@ -28,3 +29,20 @@ code_016 | [图像ROI与ROI操作](cpp/code_016.cpp)   | ✔️
 code_017 | [图像直方图](cpp/code_017.cpp)   | ✔️
 code_018 | [图像直方图均衡化](cpp/code_018.cpp)   | ✏️
 code_021 | [图像卷积操作](cpp/code_021.cpp)   | ✔️
+code_022 | [图像均值与高斯模糊](cpp/code_022.cpp)   | ❣️
+code_023 | [中值模糊](cpp/code_022.cpp)   | ✔️
+code_024 | [图像噪声](cpp/code_024.cpp)   | ✔️
+code_025 | [图像去噪声](cpp/code_025.cpp)   | ✔️
+code_026 | [高斯双边模糊](cpp/code_026.cpp)   | ✔️
+code_027 | [均值迁移模糊(mean-shift blur)](cpp/code_027.cpp)   | ✔️
+code_029 | [快速的图像边缘滤波算法](cpp/code_029/opencv_029.py)   | ✔️
+code_031 | [Sobel算子](cpp/code_031/opencv_031.py)   | ✔️
+code_032 | [更多梯度算子](cpp/code_032/opencv_032.py)   | ✔️
+code_033 | [拉普拉斯算子(二阶导数算子)](cpp/code_033/opencv_033.py)   | ✔️
+code_034 | [图像锐化](cpp/code_034/opencv_034.py)   | ✔️
+code_035 | [USM 锐化增强算法](cpp/code_035/opencv_035.py)   | ✔️
+code_036 | [Canny边缘检测器](cpp/code_036/opencv_036.py)   | ❣️
+code_037 | [图像金字塔](cpp/code_037/opencv_037.py)   | ✔️
+code_038 | [拉普拉斯金字塔](cpp/code_038/opencv_038.py)   | ✔️
+code_039 | [图像模板匹配](cpp/code_039/opencv_039.py)   | ✔️
+code_040 | [二值图像介绍](cpp/code_040/opencv_040.py)   | ✔️
